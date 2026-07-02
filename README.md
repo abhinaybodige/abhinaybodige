@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Abhinay Bodige
 
-<!--
-**abhinaybodige/abhinaybodige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence and Machine Learning at Sreenidhi Institute of Science and Technology
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Machine Learning, and Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Data Structures & Algorithms and Full Stack Development
+- 💡 Interested in Artificial Intelligence, Machine Learning, and Software Engineering
+- 🎯 Goal: To become a Software Engineer at a leading product-based company
+- 📍 Hyderabad, India
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- Git & GitHub
+- Streamlit
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+
+## 📂 Featured Projects
+
+- 🔹 Customer Segmentation & Churn Prediction
+- 🔹 Fake News Detection
+- 🔹 AI Video Generation Pipeline
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: abhinaybodige1@gmail.com
+- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
