@@ -17,17 +17,9 @@
 
 ## 🛠️ Tech Stack
 
-- Python
-- Java
-- SQL
-- HTML
-- CSS
-- Git & GitHub
-- Streamlit
-- Scikit-learn
-- Pandas
-- NumPy
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,mysql,git,github,vscode,sklearn" />
+</p>
 
 ## 📫 Connect with Me
 
