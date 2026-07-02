@@ -32,4 +32,4 @@
 ## 📫 Connect with Me
 
 - 📧 Email: abhinaybodige1@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
+- 💼 LinkedIn:https://www.linkedin.com/in/bodige-abhinay-62b57228a/
