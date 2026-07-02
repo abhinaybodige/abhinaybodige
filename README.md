@@ -27,15 +27,6 @@
 - Scikit-learn
 - Pandas
 - NumPy
-
----
-
-## 📂 Featured Projects
-
-- 🔹 Customer Segmentation & Churn Prediction
-- 🔹 Fake News Detection
-- 🔹 AI Video Generation Pipeline
-
 ---
 
 ## 📫 Connect with Me
