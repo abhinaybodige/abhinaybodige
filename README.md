@@ -25,3 +25,11 @@
 
 - 📧 Email: abhinaybodige1@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/bodige-abhinay-62b57228a/
+- ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinaybodige&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaybodige&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
